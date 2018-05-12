@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35972'
     url: http://www.gutenberg.org/2009/agents/35972
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32497#The-Alphabet-of-Economic-Science--Elements-of-the-Theory-of-Value-or-Worth
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
